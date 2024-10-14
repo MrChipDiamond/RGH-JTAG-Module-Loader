@@ -1,0 +1,12 @@
+C:\Users\XDKSi\source\repos\Module Loader\Module Loader\bin\Debug\Module Loader.exe.config
+C:\Users\XDKSi\source\repos\Module Loader\Module Loader\bin\Debug\Module Loader.exe
+C:\Users\XDKSi\source\repos\Module Loader\Module Loader\bin\Debug\Module Loader.pdb
+C:\Users\XDKSi\source\repos\Module Loader\Module Loader\bin\Debug\JRPC.dll
+C:\Users\XDKSi\source\repos\Module Loader\Module Loader\obj\Debug\Module Loader.csproj.AssemblyReference.cache
+C:\Users\XDKSi\source\repos\Module Loader\Module Loader\obj\Debug\Module_Loader.Form1.resources
+C:\Users\XDKSi\source\repos\Module Loader\Module Loader\obj\Debug\Module_Loader.Properties.Resources.resources
+C:\Users\XDKSi\source\repos\Module Loader\Module Loader\obj\Debug\Module Loader.csproj.GenerateResource.cache
+C:\Users\XDKSi\source\repos\Module Loader\Module Loader\obj\Debug\Module Loader.csproj.CoreCompileInputs.cache
+C:\Users\XDKSi\source\repos\Module Loader\Module Loader\obj\Debug\Module L.5BC03E1B.Up2Date
+C:\Users\XDKSi\source\repos\Module Loader\Module Loader\obj\Debug\Module Loader.exe
+C:\Users\XDKSi\source\repos\Module Loader\Module Loader\obj\Debug\Module Loader.pdb
